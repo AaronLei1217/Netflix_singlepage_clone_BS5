@@ -1,0 +1,16 @@
+body{
+    background-color: #181818;
+}
+
+hr{
+    color: rgb(255, 255, 255);
+    background-position-x: linear-gradient(rgba(255, 255, 255, 0.5));
+}
+
+.text-secondary {
+    color: #a3a3a3;
+}
+
+.bgCovor{
+    background: linear-gradient(to left, black);
+}
